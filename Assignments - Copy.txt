@@ -1,0 +1,13 @@
+1. Write a program to state whether a number is prime or not
+
+2. Write a program to display prime numbers between 11 to 25
+
+3. Write a program to display 1st 'n' numbers of the fibonacii series
+	0, 1, 1, 2, 3, 5, 8, 13, 21, ...
+
+4. Write a program to state whether a number is ARMSTRONG or not.
+	A number is ARMSTRONG if the sum of the cubes of the digits of that
+	number is the number itself.
+
+	E.g. 153, 370, 371, 407
+
