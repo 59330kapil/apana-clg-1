@@ -9,5 +9,6 @@
 	A number is ARMSTRONG if the sum of the cubes of the digits of that
 	number is the number itself.
 
-	E.g. 153, 370, 371, 407
+	E.g. 153, 370, 371, 407,3
+
 
